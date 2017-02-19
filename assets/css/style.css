@@ -1,0 +1,54 @@
+body {
+    background: black;
+}
+
+.page-header {
+    border-style: solid;
+    border-color: black;
+    border-bottom: 20px;
+    text-align: center;
+}
+
+.cls_btn {
+    background-color: #00d811;
+    align-content: center;
+    max-width: 100%;
+}
+
+.col-md-3 {
+    border-style: groove;
+    border-width: 5px;
+    border-color: #00d811;
+    padding: 25px;
+}
+
+.col-md-4 {
+    border-style: groove;
+    border-width: 5px;
+    border-color: #00d811;
+    padding: 25px;
+}
+
+h3 {
+    color: #00d811;
+}
+
+#answer {
+    text-align: right;
+}
+
+#guesses {
+    color: #00d811;
+}
+
+#wins {
+    color: #00d811;
+}
+
+#losses {
+    color: #00d811;
+}
+
+#hangmanImage {
+    max-width: 100%;
+}
