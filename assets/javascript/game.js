@@ -11,9 +11,12 @@
 //Global variables.  I may have over thought this
 var cannabisStrain = ["blue dream", "og kush", "girl scout cookies", "green crack", "sour diesel", "strawberry cough",
     "granddaddy purple", "trainwreck", "skywalker og", "bruce banner", "jack herer", "fire og",
-    "bubba kush", "durban poison", "golden goat", "northern lights", "alaskan thunderfuck",
+    "bubba kush", "durban poison", "golden goat", "northern lights", "alaskan thunder fuck",
     "purple haze", "white widow", "pineapple express", "headband", "blue cheese", "grape ape",
-    "white rhino", "maui wowie", "chemdawg", "la confidential"
+    "white rhino", "maui wowie", "chemdawg", "la confidential", "chocolope", "super lemon haze", "zensation",
+    "wonder woman", "white cookies", "blueberry widow", "grape skunk", "ultra sonja", "pure power plant", "agent orange",
+    "ghost train haze", "gorilla glue", "gods gift", "berry white", "tangerine dream", "fruity pebbles", "sunset sherbert",
+    "juicy fruit", "acapulco gold", "great white shark"
 ];
 var hiddenWord = [];
 var hiddenUnderlinedWord = [];
